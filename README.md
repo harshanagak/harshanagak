@@ -1,15 +1,12 @@
 - 👋 Hi, I’m @harshanagak
-- I am currently studying 3rd Year B.Tech in NIT,Trichy
+- I am currently studying 4rth Year B.Tech in NIT,Trichy
+- Ex SDE Intern@Goldmansachs
 - 👀 I’m interested in Software Developement,Machine Learning.
 - 🌱 I’m currently learning DataStructures and Algorithms
-- 💞️ I’m looking to collaborate on any projects based on DSA and MachineLearning.
+- 💞️ I’m looking to collaborate on any projects based on Full Stach Web Developement.
 - 📫 How to reach me 
 - Email    --> harshanagak@gmail.com
 - LinkedIn --> https://www.linkedin.com/in/harshanagak/
 - Instagram--> https://www.instagram.com/harsha_naga_k/
 - Whatsapp --> https://wa.me/9492171296
-- 🖥️My coding Profiles
-- GeeksForGeeks -->https://auth.geeksforgeeks.org/user/harshanagak/
-- Leetcode --> https://leetcode.com/harshanagak/
-
 
